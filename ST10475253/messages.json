@@ -1,0 +1,86 @@
+[
+  {
+    "messageId": 1000000001,
+    "numberSent": 1,
+    "recipient": "+27123456789",
+    "text": "Hello mama",
+    "hash": "10:1:Hellomama"
+  },
+  {
+    "messageId": 1000000001,
+    "numberSent": 1,
+    "recipient": "+27123456789",
+    "text": "Hello Mama",
+    "hash": "10:1:HelloMama"
+  },
+  {
+    "messageId": 1000000002,
+    "numberSent": 2,
+    "recipient": "+27123456789",
+    "text": "Hello Baba",
+    "hash": "10:2:HelloBaba"
+  },
+  {
+    "messageId": 1000000003,
+    "numberSent": 3,
+    "recipient": "+27123456789",
+    "text": "Hola mzi",
+    "hash": "10:3:Holamzi"
+  },
+  {
+    "messageId": 1000000002,
+    "numberSent": 2,
+    "recipient": "+27123456789",
+    "text": "How are you doing?",
+    "hash": "10:2:Howdoing?"
+  },
+  {
+    "messageId": 1000000002,
+    "numberSent": 2,
+    "recipient": "+27123456789",
+    "text": "sure",
+    "hash": "10:2:suresure"
+  },
+  {
+    "messageId": 1000000001,
+    "numberSent": 1,
+    "recipient": "+27123456789",
+    "text": "hello world",
+    "hash": "10:1:helloworld"
+  },
+  {
+    "messageId": 1000000001,
+    "numberSent": 1,
+    "recipient": "+27123456789",
+    "text": "HELLO ",
+    "hash": "10:1:HELLOHELLO"
+  },
+  {
+    "messageId": 1000000002,
+    "numberSent": 2,
+    "recipient": "+27123456789",
+    "text": "Ngiyabonga Baba",
+    "hash": "10:2:NgiyabongaBaba"
+  },
+  {
+    "messageId": 1000000002,
+    "numberSent": 2,
+    "recipient": "+27123456789",
+    "text": "hello java",
+    "hash": "10:2:hellojava"
+  },
+  {
+    "messageId": 1000000004,
+    "numberSent": 4,
+    "recipient": "+27123456789",
+    "text": "howzit",
+    "hash": "10:4:howzithowzit"
+  },
+  {
+    "messageId": 1000000004,
+    "numberSent": 4,
+    "recipient": "+27123456789",
+    "text": "Hallo world",
+    "hash": "10:4:Halloworld"
+  }
+]
